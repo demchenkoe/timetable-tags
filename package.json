@@ -4,7 +4,7 @@
   "description": "Helpful for select tagged time periods. Working in browsers and NodeJS applications.",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/npm/npm.git"
+    "url" : "https://github.com/demchenkoe/timetable-tags.git"
   },
   "main": "timetable-tags.js",
   "scripts": {
