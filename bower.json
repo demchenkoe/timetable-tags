@@ -1,0 +1,17 @@
+{
+  "name": "timetable-tags",
+  "description": "Helpful for select tagged time periods. Working in browsers and NodeJS applications.",
+  "main": "timetable-tags.js",
+  "authors": [
+    "Eugene Demchenko (demchenkoev@gmail.com)"
+  ],
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "timetable",
+    "time",
+    "tags",
+    "pick",
+    "period"
+  ],
+  "homepage": "https://github.com/demchenkoe/timetable-tags"
+}
